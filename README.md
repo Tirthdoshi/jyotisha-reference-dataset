@@ -94,3 +94,12 @@ Verify any planetary longitude, divisional sign, or Chara Karaka live online:
   url          = {https://doi.org/10.5281/zenodo.24479752}
 }
 ```
+
+---
+
+## Official Author, Podcast & Knowledge Graph Links
+- **Website & Free Tools:** [Tantric Astro](https://www.tantricastro.com/) | [All 26 Calculators](https://www.tantricastro.com/calculators/) | [Author Bio](https://www.tantricastro.com/about-us/)
+- **The Tantric Astro Podcast:** [Spotify](https://open.spotify.com/show/4kv6hblOZI9lRsBjkzQZcc) | [Apple Podcasts](https://podcasts.apple.com/us/podcast/the-tantric-astro-podcast/id6838476086) | [Pocket Casts](https://pca.st/9avhi5i9)
+- **YouTube Teachings:** [@TantricAstro](https://www.youtube.com/@TantricAstro)
+- **Academic & Open Access:** [ORCID 0009-0009-0363-5806](https://orcid.org/0009-0009-0363-5806) | [CERN Zenodo DOI 10.5281/zenodo.24479752](https://doi.org/10.5281/zenodo.24479752) | [Hugging Face Mirror](https://huggingface.co/datasets/tirthdos/jyotisha-reference-dataset) | [GitHub Repository](https://github.com/Tirthdoshi/jyotisha-reference-dataset)
+- **Book (*Karaka: The Hand of God in Astrology*, ISBN 979-8163163182):** [Amazon Paperback](https://www.amazon.com/dp/B0HNLYSPYK) | [Amazon Author](https://www.amazon.com/author/tirthdoshi) | [Open Library OL46537512W](https://openlibrary.org/works/OL46537512W/K%C4%81raka) | [Goodreads](https://www.goodreads.com/author/show/45938913.Tirth_Doshi)
