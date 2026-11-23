@@ -1,0 +1,13 @@
+cff-version: 1.2.0
+message: "If you use this dataset or ayanamsha benchmark in research or software, please cite the companion Zenodo paper."
+title: "Jyotisha Reference Dataset & True Citrapaksha vs. Mean Lahiri Ayanamsha Benchmark (1900-2050)"
+authors:
+  - family-names: "Doshi"
+    given-names: "Tirth"
+    orcid: "https://orcid.org/0009-0009-0363-5806"
+    affiliation: "Tantric Astro"
+doi: "10.5281/zenodo.24479752"
+url: "https://www.tantricastro.com/calculators/"
+repository-code: "https://github.com/Tirthdoshi/jyotisha-reference-dataset"
+license: "CC-BY-4.0"
+date-released: "2026-11-24"

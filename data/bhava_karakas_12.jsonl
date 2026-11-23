@@ -1,0 +1,12 @@
+{"house": 1, "bhava_name": "Tanu Bhava", "primary_karaka": "Sun", "secondary_karakas": [], "core_domains": "Vitality, constitution, self-identity, head, direction of life"}
+{"house": 2, "bhava_name": "Dhana Bhava", "primary_karaka": "Jupiter", "secondary_karakas": ["Mercury"], "core_domains": "Accumulated wealth, family lineage, speech, nourishment"}
+{"house": 3, "bhava_name": "Sahaja Bhava", "primary_karaka": "Mars", "secondary_karakas": [], "core_domains": "Younger siblings, courage, self-effort, communication, skills"}
+{"house": 4, "bhava_name": "Sukha Bhava", "primary_karaka": "Moon", "secondary_karakas": ["Mercury", "Mars", "Venus"], "core_domains": "Mother (Moon), land/property (Mars), vehicles/comfort (Venus), early education (Mercury)"}
+{"house": 5, "bhava_name": "Putra Bhava", "primary_karaka": "Jupiter", "secondary_karakas": [], "core_domains": "Children, mantra, discernment (buddhi), purva punya, creativity"}
+{"house": 6, "bhava_name": "Ari Bhava", "primary_karaka": "Mars", "secondary_karakas": ["Saturn"], "core_domains": "Conflict, competition, acute disease, service, debt"}
+{"house": 7, "bhava_name": "Yuvati Bhava", "primary_karaka": "Venus", "secondary_karakas": ["Jupiter"], "core_domains": "Marriage, spouse, partnerships, public exchange"}
+{"house": 8, "bhava_name": "Randhra Bhava", "primary_karaka": "Saturn", "secondary_karakas": [], "core_domains": "Longevity, chronic transformation, hidden research, inheritance"}
+{"house": 9, "bhava_name": "Dharma Bhava", "primary_karaka": "Jupiter", "secondary_karakas": ["Sun"], "core_domains": "Guru, dharma, fortune, father (Sun), pilgrimage, higher philosophy"}
+{"house": 10, "bhava_name": "Karma Bhava", "primary_karaka": "Mercury", "secondary_karakas": ["Sun", "Jupiter", "Saturn"], "core_domains": "Vocation, public authority (Sun), livelihood/work (Saturn), counsel (Jupiter), trade (Mercury)"}
+{"house": 11, "bhava_name": "Labha Bhava", "primary_karaka": "Jupiter", "secondary_karakas": [], "core_domains": "Elder siblings, gains, networks, fulfillment of desires"}
+{"house": 12, "bhava_name": "Vyaya Bhava", "primary_karaka": "Saturn", "secondary_karakas": ["Ketu"], "core_domains": "Expenditure, foreign residence, retreat, sleep, liberation (moksha)"}

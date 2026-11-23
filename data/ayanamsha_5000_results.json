@@ -1,0 +1,283 @@
+{
+  "sample_size": 5000,
+  "span_years": "1900-2050",
+  "ephemeris": "NASA JPL DE421 + Hipparcos HIP 65474 (Alpha Virginis / Spica)",
+  "delta_arcsec": {
+    "mean": 55.45,
+    "std": 19.14,
+    "median": 55.13,
+    "min": 15.9,
+    "max": 97.38,
+    "j2000_delta_arcsec": 75.4
+  },
+  "vargas": {
+    "D1": {
+      "division_arcmin": 1800.0,
+      "mean_planet_flip_pct": 0.06,
+      "chart_any_flip_pct": 0.5,
+      "mean_planets_flipped_per_chart": 0.005,
+      "per_planet_pct": {
+        "Sun": 0.1,
+        "Moon": 0.06,
+        "Mercury": 0.06,
+        "Venus": 0.02,
+        "Mars": 0.06,
+        "Jupiter": 0.04,
+        "Saturn": 0.12,
+        "Rahu": 0.04,
+        "Ketu": 0.04
+      }
+    },
+    "D3": {
+      "division_arcmin": 600.0,
+      "mean_planet_flip_pct": 0.156,
+      "chart_any_flip_pct": 1.24,
+      "mean_planets_flipped_per_chart": 0.014,
+      "per_planet_pct": {
+        "Sun": 0.16,
+        "Moon": 0.18,
+        "Mercury": 0.1,
+        "Venus": 0.1,
+        "Mars": 0.18,
+        "Jupiter": 0.14,
+        "Saturn": 0.26,
+        "Rahu": 0.14,
+        "Ketu": 0.14
+      }
+    },
+    "D4": {
+      "division_arcmin": 450.0,
+      "mean_planet_flip_pct": 0.224,
+      "chart_any_flip_pct": 1.8,
+      "mean_planets_flipped_per_chart": 0.02,
+      "per_planet_pct": {
+        "Sun": 0.34,
+        "Moon": 0.12,
+        "Mercury": 0.22,
+        "Venus": 0.22,
+        "Mars": 0.28,
+        "Jupiter": 0.22,
+        "Saturn": 0.26,
+        "Rahu": 0.18,
+        "Ketu": 0.18
+      }
+    },
+    "D7": {
+      "division_arcmin": 257.143,
+      "mean_planet_flip_pct": 0.384,
+      "chart_any_flip_pct": 3.04,
+      "mean_planets_flipped_per_chart": 0.035,
+      "per_planet_pct": {
+        "Sun": 0.5,
+        "Moon": 0.22,
+        "Mercury": 0.44,
+        "Venus": 0.26,
+        "Mars": 0.36,
+        "Jupiter": 0.38,
+        "Saturn": 0.58,
+        "Rahu": 0.36,
+        "Ketu": 0.36
+      }
+    },
+    "D9": {
+      "division_arcmin": 200.0,
+      "mean_planet_flip_pct": 0.476,
+      "chart_any_flip_pct": 3.72,
+      "mean_planets_flipped_per_chart": 0.043,
+      "per_planet_pct": {
+        "Sun": 0.56,
+        "Moon": 0.52,
+        "Mercury": 0.44,
+        "Venus": 0.42,
+        "Mars": 0.46,
+        "Jupiter": 0.4,
+        "Saturn": 0.48,
+        "Rahu": 0.5,
+        "Ketu": 0.5
+      }
+    },
+    "D10": {
+      "division_arcmin": 180.0,
+      "mean_planet_flip_pct": 0.478,
+      "chart_any_flip_pct": 3.84,
+      "mean_planets_flipped_per_chart": 0.043,
+      "per_planet_pct": {
+        "Sun": 0.44,
+        "Moon": 0.58,
+        "Mercury": 0.56,
+        "Venus": 0.52,
+        "Mars": 0.32,
+        "Jupiter": 0.56,
+        "Saturn": 0.4,
+        "Rahu": 0.46,
+        "Ketu": 0.46
+      }
+    },
+    "D12": {
+      "division_arcmin": 150.0,
+      "mean_planet_flip_pct": 0.622,
+      "chart_any_flip_pct": 4.96,
+      "mean_planets_flipped_per_chart": 0.056,
+      "per_planet_pct": {
+        "Sun": 0.76,
+        "Moon": 0.5,
+        "Mercury": 0.64,
+        "Venus": 0.68,
+        "Mars": 0.7,
+        "Jupiter": 0.62,
+        "Saturn": 0.62,
+        "Rahu": 0.54,
+        "Ketu": 0.54
+      }
+    },
+    "D16": {
+      "division_arcmin": 112.5,
+      "mean_planet_flip_pct": 0.931,
+      "chart_any_flip_pct": 7.12,
+      "mean_planets_flipped_per_chart": 0.084,
+      "per_planet_pct": {
+        "Sun": 1.02,
+        "Moon": 0.88,
+        "Mercury": 0.78,
+        "Venus": 0.8,
+        "Mars": 0.92,
+        "Jupiter": 0.9,
+        "Saturn": 0.84,
+        "Rahu": 1.12,
+        "Ketu": 1.12
+      }
+    },
+    "D20": {
+      "division_arcmin": 90.0,
+      "mean_planet_flip_pct": 0.984,
+      "chart_any_flip_pct": 7.64,
+      "mean_planets_flipped_per_chart": 0.089,
+      "per_planet_pct": {
+        "Sun": 1.02,
+        "Moon": 1.06,
+        "Mercury": 1.1,
+        "Venus": 1.0,
+        "Mars": 1.08,
+        "Jupiter": 1.0,
+        "Saturn": 0.72,
+        "Rahu": 0.94,
+        "Ketu": 0.94
+      }
+    },
+    "D24": {
+      "division_arcmin": 75.0,
+      "mean_planet_flip_pct": 1.173,
+      "chart_any_flip_pct": 9.02,
+      "mean_planets_flipped_per_chart": 0.106,
+      "per_planet_pct": {
+        "Sun": 1.32,
+        "Moon": 1.1,
+        "Mercury": 1.16,
+        "Venus": 1.4,
+        "Mars": 1.12,
+        "Jupiter": 1.08,
+        "Saturn": 1.14,
+        "Rahu": 1.12,
+        "Ketu": 1.12
+      }
+    },
+    "D30": {
+      "division_arcmin": 360.0,
+      "mean_planet_flip_pct": 0.273,
+      "chart_any_flip_pct": 2.16,
+      "mean_planets_flipped_per_chart": 0.025,
+      "per_planet_pct": {
+        "Sun": 0.34,
+        "Moon": 0.26,
+        "Mercury": 0.3,
+        "Venus": 0.26,
+        "Mars": 0.16,
+        "Jupiter": 0.34,
+        "Saturn": 0.28,
+        "Rahu": 0.26,
+        "Ketu": 0.26
+      }
+    },
+    "D40": {
+      "division_arcmin": 45.0,
+      "mean_planet_flip_pct": 2.102,
+      "chart_any_flip_pct": 15.36,
+      "mean_planets_flipped_per_chart": 0.189,
+      "per_planet_pct": {
+        "Sun": 2.28,
+        "Moon": 2.24,
+        "Mercury": 2.22,
+        "Venus": 2.08,
+        "Mars": 2.1,
+        "Jupiter": 1.9,
+        "Saturn": 1.78,
+        "Rahu": 2.16,
+        "Ketu": 2.16
+      }
+    },
+    "D45": {
+      "division_arcmin": 40.0,
+      "mean_planet_flip_pct": 2.433,
+      "chart_any_flip_pct": 17.76,
+      "mean_planets_flipped_per_chart": 0.219,
+      "per_planet_pct": {
+        "Sun": 2.36,
+        "Moon": 2.7,
+        "Mercury": 2.76,
+        "Venus": 2.48,
+        "Mars": 2.42,
+        "Jupiter": 2.14,
+        "Saturn": 2.04,
+        "Rahu": 2.5,
+        "Ketu": 2.5
+      }
+    },
+    "D60": {
+      "division_arcmin": 30.0,
+      "mean_planet_flip_pct": 3.016,
+      "chart_any_flip_pct": 21.34,
+      "mean_planets_flipped_per_chart": 0.271,
+      "per_planet_pct": {
+        "Sun": 3.16,
+        "Moon": 3.16,
+        "Mercury": 3.4,
+        "Venus": 3.02,
+        "Mars": 3.22,
+        "Jupiter": 2.86,
+        "Saturn": 2.48,
+        "Rahu": 2.92,
+        "Ketu": 2.92
+      }
+    },
+    "D108": {
+      "division_arcmin": 16.667,
+      "mean_planet_flip_pct": 5.613,
+      "chart_any_flip_pct": 36.8,
+      "mean_planets_flipped_per_chart": 0.505,
+      "per_planet_pct": {
+        "Sun": 5.58,
+        "Moon": 5.74,
+        "Mercury": 5.64,
+        "Venus": 5.78,
+        "Mars": 5.6,
+        "Jupiter": 5.58,
+        "Saturn": 5.28,
+        "Rahu": 5.66,
+        "Ketu": 5.66
+      }
+    }
+  },
+  "chara_karaka": {
+    "scheme_7_ak_swap_pct": 0.46,
+    "scheme_7_dk_swap_pct": 0.46,
+    "scheme_7_any_rank_swap_pct": 0.46,
+    "scheme_8_ak_swap_pct": 0.62,
+    "scheme_8_dk_swap_pct": 0.56,
+    "scheme_8_any_rank_swap_pct": 1.2
+  },
+  "nakshatra": {
+    "moon_nakshatra_flip_pct": 0.12,
+    "moon_pada_flip_pct": 0.52,
+    "any_graha_nakshatra_flip_pct": 0.82
+  }
+}
